@@ -13,3 +13,10 @@ The goal of this analysis is to identify the key drivers of revenue by examining
 
 # Methodology
 Data was cleaned and standardized to ensure consistency across key fields such as genre, platform, and region. Exploratory analysis was then conducted to identify trends and calculate key metrics, including revenue, units sold, and market share. The results were visualized in an interactive Excel dashboard using pivot tables and charts to support clear and actionable insights.
+
+## 🛠️ Skills
+- Data Cleaning & Exploratory Data Analysis (EDA)  
+- KPI Development & Business Insights  
+- Pivot Tables, Pivot Charts, Excel Functions (IF, COUNTIFS, XLOOKUP)  
+- Data Visualization & Dashboard Design  
+- Market & Revenue Analysis  
