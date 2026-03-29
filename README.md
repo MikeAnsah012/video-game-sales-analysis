@@ -1,7 +1,7 @@
 # Gaming Industry Sales Performance Analysis
 
 # Dashboard
-<img width="1418" height="720" alt="dashboard" src="https://github.com/user-attachments/assets/629c9841-e454-4c98-90f7-17e7ec024145" />
+<img width="1420" height="724" alt="Screenshot 2026-03-29 at 5 38 12 PM" src="https://github.com/user-attachments/assets/264800d4-ad85-4d6e-8116-31b6ad93c381" />
 
 
 # Executive Summary
