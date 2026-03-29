@@ -1,7 +1,8 @@
 # Gaming Industry Sales Performance Analysis
 
 # Dashboard
-https://github.com/MikeAnsah012/video-game-sales-analysis/blob/main/dashboard.png
+<img width="1418" height="720" alt="dashboard" src="https://github.com/user-attachments/assets/629c9841-e454-4c98-90f7-17e7ec024145" />
+
 
 # Executive Summary
 This project analyzes sales performance in the gaming industry to identify the key drivers of revenue across genres, platforms, and regions. The analysis shows that sales are largely driven by a few high-performing genres and platforms, with North America contributing the majority of revenue.
