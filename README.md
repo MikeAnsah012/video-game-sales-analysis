@@ -1,5 +1,6 @@
 # Gaming Industry Sales Performance Analysis
 
+# Dashboard
 https://github.com/MikeAnsah012/video-game-sales-analysis/blob/main/dashboard.png
 
 # Executive Summary
