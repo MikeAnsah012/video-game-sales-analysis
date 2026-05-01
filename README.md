@@ -37,9 +37,10 @@ Revenue is also concentrated among a small number of top-performing titles, whil
  - Optimize platform strategy by focusing on high-performing consoles and aligning game releases accordingly. 
 
  # Next Steps
- - Conduct deeper regional analysis to identify specific countries with high growth potential and tailor market entry strategies.
- - Analyze player behavior and engagement data to better understand what drives long-term revenue and retention.
- - Evaluate performance of underperforming genres and platforms to determine whether to improve, reposition, or phase them out.
- - Develop a pipeline of high-quality titles aligned with top-performing genres to sustain future revenue growth.
- - Implement ongoing performance tracking dashboards to continuously monitor sales trends and support data-driven decisions.
+ - Conduct deeper regional analysis to identify high-growth countries and collaborate with the Marketing and Localization teams to tailor region-specific campaigns and market entry strategies.
+ - Analyze player behavior and engagement trends in partnership with Product and Data teams to better understand drivers of long-term retention and revenue.
+ - Evaluate underperforming genres and platforms by working with Product Management and Strategy teams to determine whether to optimize, reposition, or phase out low-performing segments.
+ - Collaborate with Game Development and Content teams to prioritize and develop high-quality titles aligned with top-performing genres, ensuring sustained revenue growth.
+ - Partner with Business Intelligence and Analytics teams to build automated dashboards and reporting pipelines for continuous monitoring of sales performance and key KPIs.
+ - Work with Finance and Monetization teams to assess pricing strategies, in-game purchases, and revenue models to maximize profitability across regions and platforms.
 
